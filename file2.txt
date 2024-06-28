@@ -1,0 +1,2 @@
+this is file2
+this is my line2 of file2
